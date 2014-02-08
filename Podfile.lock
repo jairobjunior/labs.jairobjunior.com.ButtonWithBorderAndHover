@@ -1,0 +1,14 @@
+PODS:
+  - Catfish (0.1.1-beta)
+
+DEPENDENCIES:
+  - Catfish (from `~/projects/open-source/sook/Catfish`)
+
+EXTERNAL SOURCES:
+  Catfish:
+    :path: ~/projects/open-source/sook/Catfish
+
+SPEC CHECKSUMS:
+  Catfish: 106446f305b84303affe29080ce314d6485ed617
+
+COCOAPODS: 0.29.0
